@@ -23,7 +23,7 @@ Maggi noodles are a quick and easy instant meal that is very popular among stude
 9. Turn off the heat once the noodles are soft and ready to eat.
 
 ## Cooking Time
-5 minutes
+5 minutes.
 
 ## Price
 Around €1 per packet
